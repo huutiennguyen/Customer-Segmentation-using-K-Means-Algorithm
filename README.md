@@ -3,8 +3,6 @@
 
 # Dataset for analysis
 - E-Commerce Data (https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-
-# Introduction 
 - This dataset contains all actual transactions from 01/12/2010 to 09/12/2011 for a UK-based, registered non-store online retailer. The company primarily sells unique all-occasion gifts, with many of its customers being wholesalers.
 
 # About the Dateset:
